@@ -1,3 +1,8 @@
+## 4.35.0
+* [🎈 1.21.11 (#3781)](https://github.com/PrismarineJS/mineflayer/commit/597745c7c061943620fcacba7254bccee05b7a3e) (thanks @rom1504bot)
+* [Fix chat pattern and event listener in tutorial (#3783)](https://github.com/PrismarineJS/mineflayer/commit/48586138f560991de60bea639c71fa82954cf50f) (thanks @brentspine)
+* [Update history.md](https://github.com/PrismarineJS/mineflayer/commit/c9f766513d5bb5a93c5b86c07827128716c0afdb) (thanks @extremeheat)
+
 ## 4.34.0
 * [🎈 1.21.9/1.21.10 support (#3754)](https://github.com/PrismarineJS/mineflayer/commit/f0afaf73061c15b67e5d3457b60ed543e711acb6) (thanks @rom1504bot)
 * [Update russian docs (#3762)](https://github.com/PrismarineJS/mineflayer/commit/887b52b933d943c8d605d7835d6d55d198208fee) (thanks @fungoza)
